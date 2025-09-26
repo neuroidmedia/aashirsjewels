@@ -1,5 +1,6 @@
+// app/page.jsx
 "use client";
-import "./globals.css";
+import Image from "next/image";
 import MISDashboard from "../components/MISDashboard";
 import useLastUpdated from "./utils/useLastUpdated";
 import useDataPeriod from "./utils/useDataPeriod";
@@ -26,11 +27,26 @@ export default function Page() {
   return (
     <div className="p-6 md:p-10">
       <div className="mx-auto max-w-7xl space-y-4">
+        {/* Header */}
         <div className="flex items-center gap-3 flex-wrap">
-          <h1 className="text-2xl md:text-3xl font-semibold tracking-tight">MIS Dashboard</h1>
+          {/* Neuroid logo (place at public/neuroid.png) */}
+          <Image
+            src="/neuroid.png"
+            alt="Neuroid"
+            width={32}
+            height={32}
+            priority
+            className="rounded-md"
+          />
+          <h1 className="text-2xl md:text-3xl font-semibold tracking-tight">
+            D2C Performance Dashboard{" "}
+            <span className="opacity-60">(By Neuroid)</span>
+          </h1>
           <LastUpdatedBadge />
           <DataPeriodBadge />
         </div>
+
+        {/* Dashboard */}
         <MISDashboard />
       </div>
     </div>
