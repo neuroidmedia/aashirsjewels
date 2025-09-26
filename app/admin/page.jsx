@@ -226,7 +226,7 @@ export default function AdminPage() {
           <div className="space-y-3">
             <div className="flex gap-2">
               <button
-                onClick={() => download("data.json", JSON.stringify(jsonData, null, 2)))}
+                onClick={() => download("data.json", JSON.stringify(jsonData, null, 2))}
                 className="px-3 py-1.5 text-sm rounded-lg border bg-white/70 dark:bg-gray-900/60"
               >
                 Download data.json
