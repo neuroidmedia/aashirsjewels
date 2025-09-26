@@ -4,6 +4,11 @@ import "./globals.css";
 export const metadata = {
   title: "D2C Performance Dashboard (By Neuroid)",
   description: "Interactive D2C performance analytics dashboard by Neuroid.",
+  icons: {
+    icon: "/favicon.png",       // browser favicon
+    shortcut: "/favicon.png",   // shortcut icons
+    apple: "/favicon.png",      // iOS/Apple touch icon
+  },
 };
 
 export default function RootLayout({ children }) {
