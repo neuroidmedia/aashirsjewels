@@ -1,3 +1,4 @@
+import useLastUpdated from "./utils/useLastUpdated";
 "use client";
 import "./globals.css";
 import MISDashboard from "../components/MISDashboard";
