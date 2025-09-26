@@ -3,23 +3,31 @@ import React, { useState } from "react";
 import Link from "next/link";
 import Papa from "papaparse";
 import useLastUpdated from "../utils/useLastUpdated";
+import useDataPeriod from "../utils/useDataPeriod";
 
 export default function AdminPage() {
   const [jsonData, setJsonData] = useState(null);
   const [log, setLog] = useState("");
 
+  // badges (hooks at top level)
+  const last = useLastUpdated();
+  const period = useDataPeriod();
+
   const download = (filename, text) => {
     const blob = new Blob([text], { type: "application/json" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
-    a.href = url; a.download = filename; a.click();
+    a.href = url;
+    a.download = filename;
+    a.click();
     URL.revokeObjectURL(url);
   };
 
+  // ---- CSV helpers ----
   const parseDate = (s) => {
     if (!s) return null;
     const t = String(s).trim();
-    if (/^\d{4}-\d{2}-\d{2}$/.test(t)) return t;          // YYYY-MM-DD
+    if (/^\d{4}-\d{2}-\d{2}$/.test(t)) return t; // YYYY-MM-DD
     const m = t.match(/^(\d{2})[\/-](\d{2})[\/-](\d{4})$/); // DD/MM/YYYY or DD-MM-YYYY
     if (m) return `${m[3]}-${m[2]}-${m[1]}`;
     return null;
@@ -78,9 +86,9 @@ export default function AdminPage() {
     ].every((h) => headers.includes(h));
 
     if (isWide) {
-      const overall = [],
-        google = [],
-        meta = [];
+      const overall = [];
+      const google = [];
+      const meta = [];
       rows.forEach((r) => {
         const rr = Object.fromEntries(Object.entries(r).map(([k, v]) => [k.toLowerCase(), v]));
         const d = parseDate(rr.date);
@@ -169,9 +177,12 @@ export default function AdminPage() {
       <div className="mx-auto max-w-5xl space-y-6">
         <div className="flex items-center justify-between">
           <h1 className="text-2xl md:text-3xl font-semibold tracking-tight">Admin · Data Update</h1>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 flex-wrap">
             <span className="text-xs px-2.5 py-1 rounded-full border bg-white/70 dark:bg-gray-900/60">
-              Last updated: {useLastUpdated() ?? "–"}
+              Last updated: {last ?? "–"}
+            </span>
+            <span className="text-xs px-2.5 py-1 rounded-full border bg-white/70 dark:bg-gray-900/60">
+              {period?.pretty ? `Period: ${period.pretty}` : "Period: –"}
             </span>
             <Link
               href="/"
@@ -195,7 +206,8 @@ export default function AdminPage() {
               onChange={(e) => e.target.files?.[0] && handleCSV(e.target.files[0])}
             />
             <div className="text-xs mt-2 text-gray-600 dark:text-gray-400">
-              Expected headers: <code>date, spend, revenue, orders[, platform]</code> <br />
+              Expected headers: <code>date, spend, revenue, orders[, platform]</code>
+              <br />
               <span className="opacity-80">
                 or wide:{" "}
                 <code>
