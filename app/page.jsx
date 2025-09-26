@@ -3,6 +3,14 @@ import useLastUpdated from "./utils/useLastUpdated";
 import "./globals.css";
 import MISDashboard from "../components/MISDashboard";
 import Link from "next/link";
+function LastUpdatedBadge() {
+  const last = useLastUpdated();
+  return (
+    <span className="text-xs px-2.5 py-1 rounded-full border bg-white/70 dark:bg-gray-900/60">
+      Last updated: {last ?? "–"}
+    </span>
+  );
+}
 export default function Page() {
   return (
     <div className="p-6 md:p-10">
