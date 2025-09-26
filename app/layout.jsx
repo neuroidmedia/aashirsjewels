@@ -1,12 +1,17 @@
+// app/layout.jsx
+import "./globals.css";
+
 export const metadata = {
-  title: "MIS Performance Dashboard",
-  description: "Next.js + Tailwind + Recharts",
+  title: "D2C Performance Dashboard (By Neuroid)",
+  description: "Interactive D2C performance analytics dashboard by Neuroid.",
 };
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <head />
-      <body className="min-h-screen">{children}</body>
+      <body className="min-h-screen bg-white text-gray-900 dark:bg-black dark:text-white">
+        {children}
+      </body>
     </html>
   );
 }
