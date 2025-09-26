@@ -12,7 +12,7 @@ export default function useLastUpdated() {
         const arr = Array.isArray(data?.daily) ? data.daily : [];
         const lastDate = arr.length ? arr[arr.length - 1]?.date : null;
         setLast(lastDate || null);
-      } catch (e) {
+      } catch {
         setLast(null);
       }
     };
