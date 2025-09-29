@@ -1,591 +1,537 @@
 {
   "daily": [
     {
-      "date": "2025-08-01",
-      "spend": 15746.94,
-      "revenue": 32052.33,
-      "orders": 34
+      "date": "2025-01-09",
+      "spend": 80892.9,
+      "revenue": 372569.45,
+      "orders": 523
     },
     {
-      "date": "2025-08-02",
-      "spend": 15669.45,
-      "revenue": 37187.8,
-      "orders": 36
+      "date": "2025-02-09",
+      "spend": 88305.99,
+      "revenue": 418324.6,
+      "orders": 550
     },
     {
-      "date": "2025-08-03",
-      "spend": 16839.63,
-      "revenue": 57980.18,
-      "orders": 52
+      "date": "2025-03-09",
+      "spend": 73150.0,
+      "revenue": 400261.9,
+      "orders": 543
     },
     {
-      "date": "2025-08-04",
-      "spend": 17467.23,
-      "revenue": 49746.34,
-      "orders": 49
+      "date": "2025-04-09",
+      "spend": 93498.46,
+      "revenue": 420988.1,
+      "orders": 588
     },
     {
-      "date": "2025-08-05",
-      "spend": 19822.64,
-      "revenue": 37087.26,
-      "orders": 33
+      "date": "2025-05-09",
+      "spend": 97810.89,
+      "revenue": 456160.8,
+      "orders": 598
     },
     {
-      "date": "2025-08-06",
-      "spend": 17119.21,
-      "revenue": 46648.92,
-      "orders": 42
+      "date": "2025-06-09",
+      "spend": 74523.94,
+      "revenue": 399433.05,
+      "orders": 506
     },
     {
-      "date": "2025-08-07",
-      "spend": 16435.91,
-      "revenue": 50459.79,
-      "orders": 44
-    },
-    {
-      "date": "2025-08-08",
-      "spend": 23420.64,
-      "revenue": 54992.76,
-      "orders": 55
+      "date": "2025-07-09",
+      "spend": 92347.29,
+      "revenue": 448973.9,
+      "orders": 649
     },
     {
       "date": "2025-08-09",
-      "spend": 20471.72,
-      "revenue": 60382.71,
-      "orders": 51
+      "spend": 94071.02,
+      "revenue": 445384.3,
+      "orders": 575
     },
     {
-      "date": "2025-08-10",
-      "spend": 25427.13,
-      "revenue": 64327.1,
-      "orders": 74
+      "date": "2025-09-09",
+      "spend": 108242.94,
+      "revenue": 571085.85,
+      "orders": 762
     },
     {
-      "date": "2025-08-11",
-      "spend": 23851.17,
-      "revenue": 62268.99,
-      "orders": 59
+      "date": "2025-10-09",
+      "spend": 145647.71,
+      "revenue": 726972.65,
+      "orders": 933
     },
     {
-      "date": "2025-08-12",
-      "spend": 24263.84,
-      "revenue": 70168.43,
-      "orders": 70
+      "date": "2025-11-09",
+      "spend": 172676.49,
+      "revenue": 799069.1,
+      "orders": 1071
     },
     {
-      "date": "2025-08-13",
-      "spend": 26065.35,
-      "revenue": 60282.73,
-      "orders": 55
+      "date": "2025-12-09",
+      "spend": 189056.82,
+      "revenue": 878212.45,
+      "orders": 1135
     },
     {
-      "date": "2025-08-14",
-      "spend": 24091.96,
-      "revenue": 54815.11,
-      "orders": 63
+      "date": "2025-09-13",
+      "spend": 196205.18,
+      "revenue": 907967.74,
+      "orders": 1187
     },
     {
-      "date": "2025-08-15",
-      "spend": 25968.65,
-      "revenue": 83050.96,
-      "orders": 89
+      "date": "2025-09-14",
+      "spend": 223183.42,
+      "revenue": 1001999.96,
+      "orders": 1378
     },
     {
-      "date": "2025-08-16",
-      "spend": 24328.33,
-      "revenue": 60642.91,
-      "orders": 57
+      "date": "2025-09-15",
+      "spend": 223903.27,
+      "revenue": 834295.59,
+      "orders": 1041
     },
     {
-      "date": "2025-08-17",
-      "spend": 25014.07,
-      "revenue": 94994.68,
-      "orders": 91
+      "date": "2025-09-16",
+      "spend": 164131.25,
+      "revenue": 670486.19,
+      "orders": 998
     },
     {
-      "date": "2025-08-18",
-      "spend": 28266.52,
-      "revenue": 62409.38,
-      "orders": 60
+      "date": "2025-09-17",
+      "spend": 161642.0,
+      "revenue": 622933.25,
+      "orders": 1007
     },
     {
-      "date": "2025-08-19",
-      "spend": 34223.48,
-      "revenue": 65058.48,
-      "orders": 72
+      "date": "2025-09-18",
+      "spend": 163087.22,
+      "revenue": 739453.61,
+      "orders": 1106
     },
     {
-      "date": "2025-08-20",
-      "spend": 27882.02,
-      "revenue": 68878.45,
-      "orders": 78
+      "date": "2025-09-19",
+      "spend": 156369.58,
+      "revenue": 767098.82,
+      "orders": 1057
     },
     {
-      "date": "2025-08-21",
-      "spend": 26988.3,
-      "revenue": 63368.04,
-      "orders": 61
+      "date": "2025-09-20",
+      "spend": 133918.36,
+      "revenue": 715651.85,
+      "orders": 947
     },
     {
-      "date": "2025-08-22",
-      "spend": 19906.37,
-      "revenue": 66206.12,
-      "orders": 62
+      "date": "2025-09-21",
+      "spend": 131232.41,
+      "revenue": 671977.31,
+      "orders": 890
     },
     {
-      "date": "2025-08-23",
-      "spend": 23806.55,
-      "revenue": 69077.27,
-      "orders": 73
+      "date": "2025-09-22",
+      "spend": 113345.13,
+      "revenue": 549327.57,
+      "orders": 743
     },
     {
-      "date": "2025-08-24",
-      "spend": 23375.35,
-      "revenue": 72952.28,
-      "orders": 61
+      "date": "2025-09-23",
+      "spend": 103033.02,
+      "revenue": 513147.33,
+      "orders": 698
     },
     {
-      "date": "2025-08-25",
-      "spend": 22447.41,
-      "revenue": 56708.48,
-      "orders": 58
+      "date": "2025-09-24",
+      "spend": 120739.71,
+      "revenue": 521738.16,
+      "orders": 723
     },
     {
-      "date": "2025-08-26",
-      "spend": 24536.07,
-      "revenue": 70216.67,
-      "orders": 73
+      "date": "2025-09-25",
+      "spend": 125478.87,
+      "revenue": 481152.96,
+      "orders": 661
     },
     {
-      "date": "2025-08-27",
-      "spend": 25410.93,
-      "revenue": 53265.97,
-      "orders": 66
+      "date": "2025-09-26",
+      "spend": 121289.63,
+      "revenue": 502642.11,
+      "orders": 683
     },
     {
-      "date": "2025-08-28",
-      "spend": 24525.73,
-      "revenue": 34193.63,
-      "orders": 40
+      "date": "2025-09-27",
+      "spend": 135012.64,
+      "revenue": 588489.89,
+      "orders": 794
     },
     {
-      "date": "2025-08-29",
-      "spend": 23578.62,
-      "revenue": 54903.18,
-      "orders": 56
-    },
-    {
-      "date": "2025-08-30",
-      "spend": 17984.67,
-      "revenue": 61170.65,
-      "orders": 52
-    },
-    {
-      "date": "2025-08-31",
-      "spend": 23678.87,
-      "revenue": 69238.21,
-      "orders": 73
+      "date": "2025-09-28",
+      "spend": 116194.79,
+      "revenue": 490066.39,
+      "orders": 645
     }
   ],
   "totals": {
-    "spend": 708614.7600000001,
-    "revenue": 1844735.8099999998,
-    "roas": 2.6,
-    "orders": 1839,
-    "cac": 385.33
+    "spend": 3698990.9300000006,
+    "revenue": 16915864.880000003,
+    "roas": 4.57,
+    "orders": 22991,
+    "cac": 160.89
   },
   "channels": {
     "google": {
       "totals": {
-        "spend": 164897.65999999997,
-        "revenue": 462935.59,
-        "roas": 2.81,
-        "orders": 391,
-        "cac": 421.73
+        "spend": 348958.34,
+        "revenue": 1645075.7599999998,
+        "roas": 4.71,
+        "orders": 2299,
+        "cac": 151.79
       },
       "daily": [
         {
-          "date": "2025-08-01",
-          "spend": 2052.65,
-          "revenue": 12946.54,
-          "orders": 10
+          "date": "2025-01-09",
+          "spend": 9400.65,
+          "revenue": 67316.42,
+          "orders": 84
         },
         {
-          "date": "2025-08-02",
-          "spend": 4211.14,
-          "revenue": 8119.88,
-          "orders": 9
+          "date": "2025-02-09",
+          "spend": 11334.73,
+          "revenue": 60826.51,
+          "orders": 82
         },
         {
-          "date": "2025-08-03",
-          "spend": 5178.31,
-          "revenue": 8584.72,
-          "orders": 9
+          "date": "2025-03-09",
+          "spend": 12422.04,
+          "revenue": 69545.65,
+          "orders": 96
         },
         {
-          "date": "2025-08-04",
-          "spend": 5086.93,
-          "revenue": 8694.34,
-          "orders": 7
+          "date": "2025-04-09",
+          "spend": 11140.69,
+          "revenue": 65437.46,
+          "orders": 89
         },
         {
-          "date": "2025-08-05",
-          "spend": 5543.96,
-          "revenue": 8681.9,
-          "orders": 10
+          "date": "2025-05-09",
+          "spend": 12639.87,
+          "revenue": 66055.5,
+          "orders": 92
         },
         {
-          "date": "2025-08-06",
-          "spend": 4274.65,
-          "revenue": 9503.18,
-          "orders": 8
+          "date": "2025-06-09",
+          "spend": 13307.41,
+          "revenue": 65401.16,
+          "orders": 94
         },
         {
-          "date": "2025-08-07",
-          "spend": 2668.0,
-          "revenue": 14858.33,
-          "orders": 9
-        },
-        {
-          "date": "2025-08-08",
-          "spend": 7672.26,
-          "revenue": 19722.42,
-          "orders": 17
+          "date": "2025-07-09",
+          "spend": 14284.18,
+          "revenue": 74507.59,
+          "orders": 113
         },
         {
           "date": "2025-08-09",
-          "spend": 5111.73,
-          "revenue": 13892.31,
-          "orders": 11
+          "spend": 5262.54,
+          "revenue": 37214.4,
+          "orders": 61
         },
         {
-          "date": "2025-08-10",
-          "spend": 7134.33,
-          "revenue": 18122.98,
-          "orders": 18
+          "date": "2025-09-09",
+          "spend": 21.21,
+          "revenue": 14928.9,
+          "orders": 25
         },
         {
-          "date": "2025-08-11",
-          "spend": 5167.34,
-          "revenue": 11946.03,
-          "orders": 8
-        },
-        {
-          "date": "2025-08-12",
-          "spend": 4913.46,
-          "revenue": 14119.54,
-          "orders": 13
-        },
-        {
-          "date": "2025-08-13",
-          "spend": 5195.62,
-          "revenue": 9975.8,
-          "orders": 8
-        },
-        {
-          "date": "2025-08-14",
-          "spend": 4388.84,
-          "revenue": 12345.85,
-          "orders": 11
-        },
-        {
-          "date": "2025-08-15",
-          "spend": 5052.79,
-          "revenue": 28280.98,
+          "date": "2025-10-09",
+          "spend": 0.0,
+          "revenue": 24308.5,
           "orders": 26
         },
         {
-          "date": "2025-08-16",
-          "spend": 6453.83,
-          "revenue": 11705.3,
-          "orders": 13
+          "date": "2025-11-09",
+          "spend": 19486.97,
+          "revenue": 66061.1,
+          "orders": 83
         },
         {
-          "date": "2025-08-17",
-          "spend": 3330.88,
-          "revenue": 36610.36,
-          "orders": 20
+          "date": "2025-12-09",
+          "spend": 15146.87,
+          "revenue": 79740.25,
+          "orders": 113
         },
         {
-          "date": "2025-08-18",
-          "spend": 8645.28,
-          "revenue": 17297.98,
-          "orders": 18
+          "date": "2025-09-13",
+          "spend": 16665.41,
+          "revenue": 77880.81,
+          "orders": 100
         },
         {
-          "date": "2025-08-19",
-          "spend": 13427.44,
-          "revenue": 27065.13,
+          "date": "2025-09-14",
+          "spend": 18484.47,
+          "revenue": 104162.62,
+          "orders": 132
+        },
+        {
+          "date": "2025-09-15",
+          "spend": 21030.18,
+          "revenue": 77079.96,
+          "orders": 107
+        },
+        {
+          "date": "2025-09-16",
+          "spend": 22439.76,
+          "revenue": 86584.5,
+          "orders": 135
+        },
+        {
+          "date": "2025-09-17",
+          "spend": 19027.69,
+          "revenue": 76982.6,
+          "orders": 116
+        },
+        {
+          "date": "2025-09-18",
+          "spend": 20665.48,
+          "revenue": 74597.14,
+          "orders": 122
+        },
+        {
+          "date": "2025-09-19",
+          "spend": 17069.53,
+          "revenue": 76320.17,
+          "orders": 122
+        },
+        {
+          "date": "2025-09-20",
+          "spend": 1240.29,
+          "revenue": 40286.94,
+          "orders": 54
+        },
+        {
+          "date": "2025-09-21",
+          "spend": 3.8,
+          "revenue": 35458.39,
+          "orders": 41
+        },
+        {
+          "date": "2025-09-22",
+          "spend": 0.26,
+          "revenue": 24424.68,
           "orders": 27
         },
         {
-          "date": "2025-08-20",
-          "spend": 6700.27,
-          "revenue": 20552.59,
-          "orders": 16
+          "date": "2025-09-23",
+          "spend": 37.01,
+          "revenue": 15905.44,
+          "orders": 27
         },
         {
-          "date": "2025-08-21",
-          "spend": 6101.57,
-          "revenue": 16384.55,
-          "orders": 13
+          "date": "2025-09-24",
+          "spend": 27039.47,
+          "revenue": 45832.59,
+          "orders": 67
         },
         {
-          "date": "2025-08-22",
-          "spend": 2008.82,
-          "revenue": 6806.2,
-          "orders": 9
+          "date": "2025-09-25",
+          "spend": 32086.07,
+          "revenue": 76148.24,
+          "orders": 103
         },
         {
-          "date": "2025-08-23",
-          "spend": 7081.12,
-          "revenue": 9060.74,
-          "orders": 9
+          "date": "2025-09-26",
+          "spend": 8987.68,
+          "revenue": 41049.09,
+          "orders": 54
         },
         {
-          "date": "2025-08-24",
-          "spend": 3870.15,
-          "revenue": 12575.98,
-          "orders": 9
+          "date": "2025-09-27",
+          "spend": 6818.62,
+          "revenue": 43604.57,
+          "orders": 60
         },
         {
-          "date": "2025-08-25",
-          "spend": 4258.36,
-          "revenue": 9063.88,
-          "orders": 8
-        },
-        {
-          "date": "2025-08-26",
-          "spend": 4869.63,
-          "revenue": 22618.96,
-          "orders": 15
-        },
-        {
-          "date": "2025-08-27",
-          "spend": 5313.74,
-          "revenue": 11331.99,
-          "orders": 12
-        },
-        {
-          "date": "2025-08-28",
-          "spend": 5754.78,
-          "revenue": 17069.7,
-          "orders": 13
-        },
-        {
-          "date": "2025-08-29",
-          "spend": 4826.12,
-          "revenue": 9720.39,
-          "orders": 8
-        },
-        {
-          "date": "2025-08-30",
-          "spend": 4464.54,
-          "revenue": 18729.79,
-          "orders": 15
-        },
-        {
-          "date": "2025-08-31",
-          "spend": 4139.12,
-          "revenue": 16547.25,
-          "orders": 12
+          "date": "2025-09-28",
+          "spend": 12915.46,
+          "revenue": 57414.58,
+          "orders": 74
         }
       ]
     },
     "meta": {
       "totals": {
-        "spend": 543717.1,
-        "revenue": 1483539.68,
-        "roas": 2.73,
-        "orders": 1448,
-        "cac": 375.5
+        "spend": 3350032.59,
+        "revenue": 14564231.5,
+        "roas": 4.35,
+        "orders": 20692,
+        "cac": 161.9
       },
       "daily": [
         {
-          "date": "2025-08-01",
-          "spend": 13694.29,
-          "revenue": 22112.62,
-          "orders": 24
+          "date": "2025-01-09",
+          "spend": 71492.25,
+          "revenue": 289518.63,
+          "orders": 439
         },
         {
-          "date": "2025-08-02",
-          "spend": 11458.31,
-          "revenue": 26885.75,
-          "orders": 27
+          "date": "2025-02-09",
+          "spend": 76971.26,
+          "revenue": 326747.92,
+          "orders": 468
         },
         {
-          "date": "2025-08-03",
-          "spend": 11661.32,
-          "revenue": 50043.26,
-          "orders": 43
+          "date": "2025-03-09",
+          "spend": 60727.96,
+          "revenue": 326557.63,
+          "orders": 447
         },
         {
-          "date": "2025-08-04",
-          "spend": 12380.3,
-          "revenue": 40996.66,
-          "orders": 42
+          "date": "2025-04-09",
+          "spend": 82357.77,
+          "revenue": 360144.76,
+          "orders": 499
         },
         {
-          "date": "2025-08-05",
-          "spend": 14278.68,
-          "revenue": 19118.62,
-          "orders": 23
+          "date": "2025-05-09",
+          "spend": 85171.02,
+          "revenue": 375964.86,
+          "orders": 506
         },
         {
-          "date": "2025-08-06",
-          "spend": 12844.56,
-          "revenue": 37626.62,
-          "orders": 34
+          "date": "2025-06-09",
+          "spend": 61216.53,
+          "revenue": 296662.38,
+          "orders": 412
         },
         {
-          "date": "2025-08-07",
-          "spend": 13767.91,
-          "revenue": 39584.78,
-          "orders": 35
-        },
-        {
-          "date": "2025-08-08",
-          "spend": 15748.38,
-          "revenue": 33575.89,
-          "orders": 38
+          "date": "2025-07-09",
+          "spend": 78063.11,
+          "revenue": 367459.91,
+          "orders": 536
         },
         {
           "date": "2025-08-09",
-          "spend": 15359.99,
-          "revenue": 46617.81,
-          "orders": 40
+          "spend": 88808.48,
+          "revenue": 359362.99,
+          "orders": 514
         },
         {
-          "date": "2025-08-10",
-          "spend": 18292.8,
-          "revenue": 51544.99,
-          "orders": 56
+          "date": "2025-09-09",
+          "spend": 108221.73,
+          "revenue": 528341.83,
+          "orders": 737
         },
         {
-          "date": "2025-08-11",
-          "spend": 18683.83,
-          "revenue": 51035.68,
-          "orders": 51
+          "date": "2025-10-09",
+          "spend": 145647.71,
+          "revenue": 643315.34,
+          "orders": 907
         },
         {
-          "date": "2025-08-12",
-          "spend": 19350.38,
-          "revenue": 64267.5,
-          "orders": 57
+          "date": "2025-11-09",
+          "spend": 153189.52,
+          "revenue": 710346.48,
+          "orders": 988
         },
         {
-          "date": "2025-08-13",
-          "spend": 20869.73,
-          "revenue": 50360.71,
-          "orders": 47
+          "date": "2025-12-09",
+          "spend": 173909.95,
+          "revenue": 764674.22,
+          "orders": 1022
         },
         {
-          "date": "2025-08-14",
-          "spend": 19703.12,
-          "revenue": 45663.13,
-          "orders": 52
+          "date": "2025-09-13",
+          "spend": 179539.77,
+          "revenue": 834684.59,
+          "orders": 1087
         },
         {
-          "date": "2025-08-15",
-          "spend": 20915.86,
-          "revenue": 59486.35,
-          "orders": 63
+          "date": "2025-09-14",
+          "spend": 204698.95,
+          "revenue": 935960.06,
+          "orders": 1246
         },
         {
-          "date": "2025-08-16",
-          "spend": 17874.5,
-          "revenue": 42993.83,
-          "orders": 44
+          "date": "2025-09-15",
+          "spend": 202873.09,
+          "revenue": 667856.14,
+          "orders": 934
         },
         {
-          "date": "2025-08-17",
-          "spend": 21683.19,
-          "revenue": 76802.21,
-          "orders": 71
+          "date": "2025-09-16",
+          "spend": 141691.49,
+          "revenue": 591172.98,
+          "orders": 863
         },
         {
-          "date": "2025-08-18",
-          "spend": 19621.24,
-          "revenue": 47583.48,
-          "orders": 42
+          "date": "2025-09-17",
+          "spend": 142614.31,
+          "revenue": 594400.22,
+          "orders": 891
         },
         {
-          "date": "2025-08-19",
-          "spend": 20796.04,
-          "revenue": 40651.17,
-          "orders": 45
+          "date": "2025-09-18",
+          "spend": 142421.74,
+          "revenue": 628048.52,
+          "orders": 984
         },
         {
-          "date": "2025-08-20",
-          "spend": 21181.75,
-          "revenue": 56182.16,
-          "orders": 62
+          "date": "2025-09-19",
+          "spend": 139300.05,
+          "revenue": 607693.84,
+          "orders": 935
         },
         {
-          "date": "2025-08-21",
-          "spend": 20886.73,
-          "revenue": 47024.13,
-          "orders": 48
+          "date": "2025-09-20",
+          "spend": 132678.07,
+          "revenue": 619609.8,
+          "orders": 893
         },
         {
-          "date": "2025-08-22",
-          "spend": 17897.55,
-          "revenue": 68555.24,
-          "orders": 53
+          "date": "2025-09-21",
+          "spend": 131228.61,
+          "revenue": 581250.3,
+          "orders": 849
         },
         {
-          "date": "2025-08-23",
-          "spend": 16725.43,
-          "revenue": 63994.85,
-          "orders": 64
+          "date": "2025-09-22",
+          "spend": 113344.87,
+          "revenue": 477723.58,
+          "orders": 716
         },
         {
-          "date": "2025-08-24",
-          "spend": 19505.2,
-          "revenue": 62469.64,
-          "orders": 52
+          "date": "2025-09-23",
+          "spend": 102996.01,
+          "revenue": 431048.62,
+          "orders": 671
         },
         {
-          "date": "2025-08-25",
-          "spend": 18189.05,
-          "revenue": 49280.51,
-          "orders": 50
+          "date": "2025-09-24",
+          "spend": 93700.24,
+          "revenue": 427248.39,
+          "orders": 656
         },
         {
-          "date": "2025-08-26",
-          "spend": 19666.44,
-          "revenue": 57709.03,
-          "orders": 58
+          "date": "2025-09-25",
+          "spend": 93392.8,
+          "revenue": 386085.43,
+          "orders": 558
         },
         {
-          "date": "2025-08-27",
-          "spend": 20097.19,
-          "revenue": 46954.25,
-          "orders": 54
+          "date": "2025-09-26",
+          "spend": 112301.95,
+          "revenue": 469792.16,
+          "orders": 629
         },
         {
-          "date": "2025-08-28",
-          "spend": 18770.95,
-          "revenue": 28057.46,
-          "orders": 27
+          "date": "2025-09-27",
+          "spend": 128194.02,
+          "revenue": 515997.63,
+          "orders": 734
         },
         {
-          "date": "2025-08-29",
-          "spend": 18752.5,
-          "revenue": 49860.33,
-          "orders": 48
-        },
-        {
-          "date": "2025-08-30",
-          "spend": 13520.13,
-          "revenue": 45201.22,
-          "orders": 37
-        },
-        {
-          "date": "2025-08-31",
-          "spend": 19539.75,
-          "revenue": 61299.8,
-          "orders": 61
+          "date": "2025-09-28",
+          "spend": 103279.33,
+          "revenue": 446562.29,
+          "orders": 571
         }
       ]
     }
